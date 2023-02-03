@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm passionate about technology Technology, development and brands that work to contribute to better digital interaction. I work and believe in actions that can generate a positive impact on people's lives. I have experience in PHP frameworks (Laravel and CakePHP), WEB design patterns, clean architecture and clean code. And I also have experience in JavaScript Frameworks (React, Next.js and React-Native) I've been working as a web developer for 3 years
+I'm passionate about technology Technology, development and brands that work to contribute to better digital interaction. I work and believe in actions that can generate a positive impact on people's lives. I have experience in PHP frameworks (Laravel and CakePHP), WEB design patterns, clean architecture and clean code. And I also have experience in JavaScript Frameworks (React, Next.js and React-Native)
+I've been working as a web developer for 3 years
 
 * 🌍  I'm based in São Paulo
 * 🖥️  See my portfolio at [My Portifolio](https://portifolio-vitormene.vercel.app/)
