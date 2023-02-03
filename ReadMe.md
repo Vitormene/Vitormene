@@ -7,9 +7,9 @@ Web Developer
 I'm passionate about technology Technology, development and brands that work to contribute to better digital interaction. I work and believe in actions that can generate a positive impact on people's lives. I have experience in PHP frameworks (Laravel and CakePHP), WEB design patterns, clean architecture and clean code. And I also have experience in JavaScript Frameworks (React, Next.js and React-Native) I've been working as a web developer for 3 years
 
 * 🌍  I'm based in São Paulo
-* 🖥️  See my portfolio at [My Portifolio](http://portifolio-vitormene.vercel.app/)
+* 🖥️  See my portfolio at [My Portifolio](https://portifolio-vitormene.vercel.app/)
 * ✉️  You can contact me at [menezesal@outlook.com](mailto:menezesal@outlook.com)
-* 🚀  I'm currently working on [Mentes Que Pensam](http://https://www.mentesquepensam.com.br/)
+* 🚀  I'm currently working on [Mentes Que Pensam](https://www.mentesquepensam.com.br/)
 * 🧠  I'm learning Next.js and Vite
 * 🤝  I'm open to collaborating on Projects Web
 
